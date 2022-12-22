@@ -35,7 +35,7 @@ jq --arg a "$lambda_name-notification" '.LambdaFunctionConfigurations[0].Id = $a
 echo "> Inserted lambda ARN & id."
 
 echo "> Creating notification..."
-aws s3api put-bucket-notification-configuration --bucket $input_bucket_name --notification-configuration file://./notification_config.json
+aws s3api put-bucket-notification-configuration --bucket $input_bucket_name --notification-configuration fileb://notification_config.json
 
 cd ..
 

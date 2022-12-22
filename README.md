@@ -15,5 +15,16 @@ Willkommen zu der offiziellen Dokumentation über unsere Projektarbeit für das 
 * [x] Cleanup Script
 * [ ] Run Script
 ### Installation
+Bitte stellen Sie sicher, dass Sie die folgenden Packages installiert haben:
+> [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
+> [jq](https://stedolan.github.io/jq/download/)
+
+> zip
+> ```sh
+>  sudo apt install zip
+>  ```
+> <br>
+
 ### Benutzung
 ### Schlusswort
