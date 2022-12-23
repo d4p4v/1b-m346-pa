@@ -58,3 +58,11 @@ Wenn Sie den AWS CLI und jq heruntergeladen installiert haben, sollten Sie das P
 Zum Abschluss möchten wir erwähnen, dass das Projekt nicht gelungen ist. Problem war, dass die Aufgabe für uns zu schwer war. Wir mussten viel recherchieren und haben Tools wie ChatGPT benutzt. Dann haben wir versucht mit der Klasse den Code zu vervollständigen, was auch nicht wirklich geklappt hat.
 
 Jedoch denken wir, dass wir als Team gut harmoniert und die Aufgaben fair verteilt haben.
+
+### Reflexion
+
+Din: Ich persönlich denke wir haben unser Bestes gegeben und versucht ein gutes Endprodukt zu haben. Jedoch hätten wir aber früher auf die Lehrperson zugehen können um uns bei Fragen helfen zu können. Ich denke auch, dass ich meine Aufgabe ziemlich gut gemacht habe, aber es noch sicher Verbesserungspotential hat.
+
+Dalibor:
+
+Pascal:
